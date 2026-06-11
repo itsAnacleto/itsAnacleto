@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Análise de dados](<img width="1024" height="559" alt="watermarked_img_12871367436247582847" src="https://github.com/user-attachments/assets/08897704-0231-4d62-8248-85216ee297e5" />)
 **itsAnacleto/itsAnacleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
