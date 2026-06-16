@@ -29,7 +29,10 @@ ___negrito e italíco___
 [Texto imagem](link imagem)
 ### LINK IMAGEM
 
-[Estrada com áravores](https://burst.shopifycdn.com/photos/country-road-in-fall.jpg?width=1200&format=pjpg&exif=1&iptc=1)
+[Estrada com áravores](https://burst.shopifycdn.com/photos/country-road-in-fall.jpg)
+
+![Estrada com áravores](https://burst.shopifycdn.com/photos/country-road-in-fall.jpg)
+
 
 
 <!--
