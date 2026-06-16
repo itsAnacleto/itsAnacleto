@@ -33,6 +33,36 @@ ___negrito e italíco___
 
 ![Estrada com áravores](https://burst.shopifycdn.com/photos/country-road-in-fall.jpg)
 
+### Blocos de código
+
+'system.out.println();'
+
+
+'''system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();'''
+
+### Citações
+
+>texto citações
+
+### Tabelas
+
+| Cabeçalho 1 |Cabeçalho 2|
+|-------------|-----------|
+| Texto 1     | Texto 2   |
+| Texto 3     | Texto 4   |
+| Texto 5     |           |
+
+
+### Checkout
+
+- [X] Tarefa 1
+- [ ] Tarefa 2
+
+ou
+
+[X] Tarefa 1 <br>
+[ ] Tarefa 2
+
 
 
 <!--
