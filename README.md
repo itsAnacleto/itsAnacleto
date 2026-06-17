@@ -34,4 +34,9 @@
 
 ---------
 
-<div><a href="https://github.com/itsAnacleto"><img loading="lazy" height="150em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnacleto&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="150em" src="(https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=highcontrast"/></div>
+<a href="https://github.com/itsAnacleto/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itsAnacleto" />
+</a>
+<a href="https://github.com/itsAnacleto/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAnacleto&layout=compact&langs_count=8&card_width=320" />
+</a>
