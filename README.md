@@ -1,4 +1,4 @@
-<center><h1> Sejam Bem-Vindos ao meu GitHub!!!</h1></center>
+<center><h1>Sejam Bem-Vindos ao meu GitHub!!!</h1></center>
 
 ![Aprendendo a entender dados](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)
 
@@ -10,7 +10,11 @@
 🎓 **Graduando em Ciências Econômicas 2025/2028**<br>
 🔎 **Ferramentas** <br>
 📈 **Análises**<br>
-📫 [LinkedIn](www.linkedin.com/in/luis-gustavo-anacleto-1953a224a)
+📫 [LinkedIn](https://www.linkedin.com/in/luis-gustavo-anacleto-1953a224a/)
 
 ----------
 
+## **Tecnologias** 
+<img src = "https://www.liblogo.com/img-logo/ex220m9d7-excel-logo-microsoft-office-365-excel-logo-free-icon-of-logos-microsoft.png" width = "100px" >
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100px" >
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width = "100px" >
