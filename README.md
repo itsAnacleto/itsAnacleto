@@ -15,6 +15,6 @@
 ----------
 
 ## **Tecnologias** 
-<img src = "https://www.liblogo.com/img-logo/ex220m9d7-excel-logo-microsoft-office-365-excel-logo-free-icon-of-logos-microsoft.png" width = "100px" >
+<img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/264ff890-1268-434b-9b6d-d2be69829a5a/dd1f00d-2d93e8ee-89ab-4fba-82ca-56cb417e97cf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI2NGZmODkwLTEyNjgtNDM0Yi05YjZkLWQyYmU2OTgyOWE1YVwvZGQxZjAwZC0yZDkzZThlZS04OWFiLTRmYmEtODJjYS01NmNiNDE3ZTk3Y2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2iP3AFu1EYJmhEOORcOcgvl4JPJyWJ_twOCBx-AHxTU" width = "100px" >
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100px" >
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width = "100px" >
