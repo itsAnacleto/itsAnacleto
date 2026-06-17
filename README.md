@@ -34,4 +34,6 @@
 
 ---------
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnacleto&stats_format=bytes)
+
 ![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=highcontrast)
