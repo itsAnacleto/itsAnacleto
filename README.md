@@ -34,8 +34,6 @@
 
 ---------
 
-![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnacleto&layout=compact&langs_count=7&theme=highcontrast)
-![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=highcontrast)
 
 <div>
 <a href="https://github.com/itsAnacleto">
