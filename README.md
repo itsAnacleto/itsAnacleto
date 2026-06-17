@@ -35,11 +35,5 @@
 ---------
 
 <div>
-
-<a href="https://github.com/itsAnacleto">
-
-<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnacleto&layout=compact&langs_count=7&theme=dracula"/>
-
-<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=highcontrast"/>
-
-</div>
+<a href="https://github.com/itsAnacleto"><img loading="lazy" height="150em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnacleto&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="(https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=highcontrast"/></div>
