@@ -17,3 +17,15 @@
 ## **Tecnologias** 
 
 <img src = "https://www.svgrepo.com/show/373589/excel.svg" width = "100px" > <img src = "https://images.icon-icons.com/2699/PNG/512/qgis_logo_icon_170816.png" width = "100px" > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100px" > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width = "100px" >
+
+---------
+
+|Cusrsos                |Certificado  |Duração|
+|-----------------------|-------------|-------|
+|c                      |c            |     h |
+|c                      |c            |     h |
+|c                      |c            |     h |
+
+---------
+
+![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=radical)
