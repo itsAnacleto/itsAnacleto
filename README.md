@@ -28,4 +28,4 @@
 
 ---------
 
-![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=radical)
+![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnacleto&show_icons=true&theme=highcontrast)
