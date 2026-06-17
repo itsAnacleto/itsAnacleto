@@ -3,6 +3,7 @@
 ![Aprendendo a entender dados](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)
 
 > "Os números constituem a única linguagem universal" - Nathanael West
+
 ---------
 📢 Eu sou o Luis, estou buscando novas ferramentas e melhores formas para trabalhar com dados. Por meio da DIO e seu Bootcamp para adquirir experiência. Conseguindo desta forma traduzir por meio de dados uma decisão.<br>
 
