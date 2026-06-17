@@ -15,5 +15,4 @@
 ----------
 
 ## **Tecnologias** 
-
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100px" > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width = "100px" >
+<img src = "https://images.icon-icons.com/2699/PNG/512/qgis_logo_icon_170816.png" width = "100px" > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100px" > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width = "100px" >
