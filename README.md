@@ -33,9 +33,4 @@
 |c                      |c            |     h |
 
 ---------
-
-<a href="https://github.com/itsAnacleto/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itsAnacleto" /></a>
-<a href="https://github.com/itsAnacleto/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAnacleto&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnacleto)](https://github.com/anuraghazra/github-readme-stats)
