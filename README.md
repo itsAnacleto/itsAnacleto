@@ -33,4 +33,3 @@
 |c                      |c            |     h |
 
 ---------
-[![itsAnacleto GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnacleto)](https://github.com/anuraghazra/github-readme-stats)
